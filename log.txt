@@ -1,0 +1,10 @@
+1714473854174 : GET : /
+1714473855009 : GET : /favicon.ico
+1714473858199 : GET : /api/countries
+1714473884899 : GET : /api/countries
+1714473909767 : GET : /api/countries
+1714473914845 : GET : /api/countries
+1714474058050 : GET : /api/countries/662fb18ee1ef07f3b0e052ba
+1714474092471 : DELETE : /api/countries/662fb18ee1ef07f3b0e052ba
+1714474098455 : GET : /api/countries
+1714474153292 : POST : /api/countries
